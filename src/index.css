@@ -1,0 +1,19 @@
+:root{
+    --primary:#ffffff;
+   --primarylight:#01549dac;
+    --secondary-light:#eea47f;
+    --secondary:#eea47f;
+    --white:#ffffff;
+    --lightpink:#faeaeb;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width:658px) {
+    ::-webkit-scrollbar{
+      display: none;
+    }
+    
+  }
